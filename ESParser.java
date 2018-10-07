@@ -203,7 +203,5 @@ public class ESParser {
 				printIOExc(e.getMessage());
 			}
 		}
-		
 	}
-	
 }
